@@ -1,0 +1,69 @@
+form {
+	padding-top: 15px;
+}
+.questions {
+	width: 900px;
+	padding-bottom: 40px;
+	background-color: rgb(245, 245, 245);
+}
+.zag {
+	color: rgb(9, 72, 128);
+	padding-top: 15px;
+}
+.ques-header {
+	height: 35px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgb(215, 225, 240);
+}
+.ques-header > strong > em,
+span > b {
+	margin: 15px;
+}
+.q-textarea {
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 45px;
+}
+.answType {
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 20px;
+}
+.sel-check {
+	display: flex;
+	flex-direction: column;
+}
+.answer {
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 20px;
+}
+.answer > div > img {
+	width: 35px;
+	height: 30px;
+}
+.inpAnswer {
+	width: 420px;
+	height: 35px;
+	border: 1px solid rgb(148, 147, 147);
+}
+.addAnsw {
+	color: rgb(123, 179, 244);
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+}
+.btn {
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+.addAnsw > img {
+	width: 25px;
+	height: 21px;
+}
+.addAnsw > button > strong {
+	padding-left: 7px;
+}

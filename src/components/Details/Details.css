@@ -1,0 +1,21 @@
+.details {
+	width: 900px;
+	height: 400px;
+	padding-top: 40px;
+	background-color: rgb(245, 245, 245);
+}
+.inpTitle {
+	width: 435px;
+	height: 30px;
+	border: 1px solid rgb(187, 182, 182);
+	margin-left: 20px;
+}
+.category {
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 20px;
+}
+.sel-check {
+	display: flex;
+	flex-direction: column;
+}
